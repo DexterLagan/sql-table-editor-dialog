@@ -142,6 +142,6 @@
 
 ;;; main
 
-(create-table-editor appname "" my-db "my-table" "my-primary-id" "my-primary-value")
+(create-table-editor appname "My dialog message" my-db "my-table" "my-primary-id" "my-primary-value")
 
 ; EOF
